@@ -69,19 +69,3 @@ document.querySelectorAll('a[href^="#"]').forEach((anchor) => {
     });
   });
 });
-
-// Apps Script
-const scriptURL =
-  "https://script.google.com/macros/s/AKfycbyUctH3V0o5ldpOEI6J9ILIjrUBhf8BWWAgAtE5YpB8W83b7812iPoXj2fnyPfxXvcO-g/exec";
-const form = document.forms["ridwan-contact-form"];
-const alert = document.querySelector('.alert');
-form.addEventListener("submit", (e) => {
-  e.preventDefault();
-  fetch(scriptURL, { method: "POST", body: new FormData(form) })
-    .then((response) => {
-      alert.classList.toggle('hidden');
-      form.reset();
-      console.log("Success!", response);
-    })
-    .catch((error) => console.error("Error!", error.message));
-});
