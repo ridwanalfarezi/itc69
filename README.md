@@ -3,7 +3,7 @@
 # Project Overview
 Static Website for Cloud Computing Club Competition Regional DKI Jakarta
 
-Project Link : <a href="https://itclub.my.id" target="_blank">https://itclub.my.id</a>
+Project Link : https://itclub69.my.id
 
 Technology :
 - [TailwindCSS](https://tailwindcss.com/).
@@ -20,40 +20,7 @@ or
 #### Download the zip file
 ![download zip](https://github.com/0x1m4o/Industry-Project/blob/main/public/img/image.png)
 
-#### 2. Go to directory 
-```
-cd Industry-Project
-```
-
-#### 3. Install dependency with composer and npm
-```
-composer install
-```
-```
-npm install
-```
-
-#### 4. Copy the content of ```.env.example``` file then create ```.env``` file and paste to ```.env``` file
-
-#### 5. Create Database with the same name as ```DB_DATABASE``` from   ```.env``` file
-
-#### 6. Run migration
-```
-php artisan migrate:fresh --seed
-```
-
-#### 7. Link the storage to public folder
-```
-php artisan storage:link
-```
-
-#### 8. Start the server and vite
-```
-php artisan serve
-```
-```
-npm run dev
-```
+#### 2. Open the 'index.html' file
 
 ## Authors
 
