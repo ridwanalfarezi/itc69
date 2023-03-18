@@ -25,7 +25,7 @@ or
 cd c4dki
 ```
 
-#### 3. Open the 'index.html' file
+#### 3. Open the <i>index.html</i> file
 
 ## Authors
 
