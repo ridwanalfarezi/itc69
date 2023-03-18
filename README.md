@@ -20,7 +20,12 @@ or
 #### Download the zip file
 ![download zip](https://github.com/0x1m4o/Industry-Project/blob/main/public/img/image.png)
 
-#### 2. Open the 'index.html' file
+#### 2. Go to directory 
+```
+cd c4dki
+```
+
+#### 3. Open the 'index.html' file
 
 ## Authors
 
