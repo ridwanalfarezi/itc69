@@ -14,7 +14,7 @@ Wireframe : https://whimsical.com/it-club-69-A2VtcXFe2VDtDADSfwYVoh (Password : 
 ## Step by step installation
 #### 1. Clone this repository
 ```
-git clone https://github.com/0x1m4o/Industry-Project.git
+git clone https://github.com/ridwanalfarezi/c4dki.git
 ```
 or 
 #### Download the zip file
