@@ -1,7 +1,7 @@
 <p align="center"><a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.cdnlogo.com/logos/t/34/tailwind-css.svg" width="400" alt="TailwindCSS Logo"></a></p>
 
 # Project Overview
-Static Website for Cloud Computing Club Competition Regional DKI Jakarta
+Project for Static Website Cloud Computing Club Competition Regional DKI Jakarta
 
 Project Link : https://itclub69.my.id
 
