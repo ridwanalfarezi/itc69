@@ -28,6 +28,5 @@ cd c4dki
 #### 3. Open the <i>index.html</i> file
 
 ## Authors
-
 - [@badzlan](https://github.com/badzlan)
 - [@ridwanalfarezi](https://github.com/ridwanalfarezi)
